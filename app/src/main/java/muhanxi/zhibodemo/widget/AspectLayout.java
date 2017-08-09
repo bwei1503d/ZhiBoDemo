@@ -16,6 +16,8 @@ import com.pili.pldroid.player.common.Util;
  */
 public class AspectLayout extends RelativeLayout {
 
+
+
     private static final String TAG = "AspectLayout";
 
     private int mWidthMeasureSpec;
